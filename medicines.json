@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Paracetamol",
+    "uses": "Used to reduce fever and relieve mild to moderate pain.",
+    "dosage": "Take only as directed by a qualified doctor or according to the medicine label.",
+    "sideEffects": "Nausea, skin rash, liver damage in case of overdose."
+  },
+  {
+    "name": "Cetirizine",
+    "uses": "Used to relieve allergy symptoms such as sneezing, itching and runny nose.",
+    "dosage": "Take only as directed by a qualified doctor.",
+    "sideEffects": "Drowsiness, dry mouth, tiredness."
+  },
+  {
+    "name": "Dolo 650",
+    "uses": "Used for fever and body pain relief.",
+    "dosage": "Take only as directed by a qualified doctor.",
+    "sideEffects": "Nausea, stomach discomfort, allergic reactions."
+  },
+  {
+    "name": "Crocin",
+    "uses": "Used for fever and headache.",
+    "dosage": "Take only as directed by a qualified doctor.",
+    "sideEffects": "Rare allergic reactions."
+  },
+  {
+    "name": "Azithromycin",
+    "uses": "Antibiotic used for certain bacterial infections.",
+    "dosage": "Use only on a doctor's prescription and complete the full prescribed course.",
+    "sideEffects": "Diarrhea, nausea, stomach pain."
+  }
+]
