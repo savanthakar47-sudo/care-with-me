@@ -29,4 +29,244 @@
     "dosage": "Use only on a doctor's prescription and complete the full prescribed course.",
     "sideEffects": "Diarrhea, nausea, stomach pain."
   }
-]
+
+{
+  "name": "Ibuprofen",
+  "uses": "Pain, fever and inflammation relief.",
+  "dosage": "Use only as directed by a qualified doctor.",
+  "sideEffects": "Stomach pain, nausea, dizziness."
+},
+{
+  "name": "Amoxicillin",
+  "uses": "Antibiotic for bacterial infections.",
+  "dosage": "Take only on a doctor's prescription and complete the full course.",
+  "sideEffects": "Diarrhea, rash, nausea."
+},
+{
+  "name": "Metformin",
+  "uses": "Used to help manage type 2 diabetes.",
+  "dosage": "Take only as directed by your doctor.",
+  "sideEffects": "Nausea, diarrhea, stomach upset."
+},
+{
+  "name": "Omeprazole",
+  "uses": "Used for acidity and stomach ulcers.",
+  "dosage": "Take before meals as directed by your doctor.",
+  "sideEffects": "Headache, stomach pain."
+},
+{
+  "name": "Pantoprazole",
+  "uses": "Used for acid reflux and heartburn.",
+  "dosage": "Use as prescribed by a doctor.",
+  "sideEffects": "Headache, diarrhea."
+},
+{
+  "name": "Aspirin",
+  "uses": "Pain relief and blood clot prevention in some patients.",
+  "dosage": "Use only on medical advice.",
+  "sideEffects": "Stomach irritation, bleeding."
+},
+{
+  "name": "Levocetirizine",
+  "uses": "Used for allergy symptoms.",
+  "dosage": "Take as directed by your doctor.",
+  "sideEffects": "Sleepiness, dry mouth."
+},
+{
+  "name": "Diclofenac",
+  "uses": "Pain and inflammation relief.",
+  "dosage": "Use only as prescribed.",
+  "sideEffects": "Stomach pain, nausea."
+},
+{
+  "name": "Naproxen",
+  "uses": "Pain and arthritis relief.",
+  "dosage": "Use as directed by a doctor.",
+  "sideEffects": "Heartburn, stomach upset."
+},
+{
+  "name": "Ciprofloxacin",
+  "uses": "Antibiotic for bacterial infections.",
+  "dosage": "Take only with a doctor's prescription.",
+  "sideEffects": "Nausea, diarrhea."
+},
+{
+  "name": "Doxycycline",
+  "uses": "Antibiotic for bacterial infections.",
+  "dosage": "Take as prescribed by your doctor.",
+  "sideEffects": "Sun sensitivity, nausea."
+},
+{
+  "name": "Losartan",
+  "uses": "Used to treat high blood pressure.",
+  "dosage": "Take only as directed by a doctor.",
+  "sideEffects": "Dizziness, tiredness."
+},
+{
+  "name": "Amlodipine",
+  "uses": "Used for high blood pressure and chest pain.",
+  "dosage": "Use only as prescribed.",
+  "sideEffects": "Swelling of feet, dizziness."
+},
+{
+  "name": "Atorvastatin",
+  "uses": "Used to lower cholesterol.",
+  "dosage": "Take only as directed by your doctor.",
+  "sideEffects": "Muscle pain, headache."
+},
+{
+  "name": "Rosuvastatin",
+  "uses": "Used to reduce cholesterol.",
+  "dosage": "Use only on medical advice.",
+  "sideEffects": "Muscle pain, nausea."
+},
+{
+  "name": "Salbutamol",
+  "uses": "Relieves asthma and breathing problems.",
+  "dosage": "Use inhaler only as prescribed.",
+  "sideEffects": "Fast heartbeat, tremors."
+},
+{
+  "name": "Montelukast",
+  "uses": "Used for asthma and allergies.",
+  "dosage": "Take as directed by a doctor.",
+  "sideEffects": "Headache, stomach pain."
+},
+{
+  "name": "Vitamin C",
+  "uses": "Vitamin supplement.",
+  "dosage": "Use according to label or doctor's advice.",
+  "sideEffects": "Stomach upset in high doses."
+},
+{
+  "name": "Vitamin D3",
+  "uses": "Supports bone health and vitamin D deficiency.",
+  "dosage": "Take as advised by your doctor.",
+  "sideEffects": "Usually well tolerated when used correctly."
+},
+{
+  "name": "Zinc",
+  "uses": "Mineral supplement for zinc deficiency.",
+  "dosage": "Take as directed by a healthcare professional.",
+  "sideEffects": "Nausea, stomach upset."
+},
+{
+  "name": "Ibuprofen",
+  "uses": "Pain, fever and inflammation relief.",
+  "dosage": "Use only as directed by a qualified doctor.",
+  "sideEffects": "Stomach pain, nausea, dizziness."
+},
+{
+  "name": "Amoxicillin",
+  "uses": "Antibiotic for bacterial infections.",
+  "dosage": "Take only on a doctor's prescription and complete the full course.",
+  "sideEffects": "Diarrhea, rash, nausea."
+},
+{
+  "name": "Metformin",
+  "uses": "Used to help manage type 2 diabetes.",
+  "dosage": "Take only as directed by your doctor.",
+  "sideEffects": "Nausea, diarrhea, stomach upset."
+},
+{
+  "name": "Omeprazole",
+  "uses": "Used for acidity and stomach ulcers.",
+  "dosage": "Take before meals as directed by your doctor.",
+  "sideEffects": "Headache, stomach pain."
+},
+{
+  "name": "Pantoprazole",
+  "uses": "Used for acid reflux and heartburn.",
+  "dosage": "Use as prescribed by a doctor.",
+  "sideEffects": "Headache, diarrhea."
+},
+{
+  "name": "Aspirin",
+  "uses": "Pain relief and blood clot prevention in some patients.",
+  "dosage": "Use only on medical advice.",
+  "sideEffects": "Stomach irritation, bleeding."
+},
+{
+  "name": "Levocetirizine",
+  "uses": "Used for allergy symptoms.",
+  "dosage": "Take as directed by your doctor.",
+  "sideEffects": "Sleepiness, dry mouth."
+},
+{
+  "name": "Diclofenac",
+  "uses": "Pain and inflammation relief.",
+  "dosage": "Use only as prescribed.",
+  "sideEffects": "Stomach pain, nausea."
+},
+{
+  "name": "Naproxen",
+  "uses": "Pain and arthritis relief.",
+  "dosage": "Use as directed by a doctor.",
+  "sideEffects": "Heartburn, stomach upset."
+},
+{
+  "name": "Ciprofloxacin",
+  "uses": "Antibiotic for bacterial infections.",
+  "dosage": "Take only with a doctor's prescription.",
+  "sideEffects": "Nausea, diarrhea."
+},
+{
+  "name": "Doxycycline",
+  "uses": "Antibiotic for bacterial infections.",
+  "dosage": "Take as prescribed by your doctor.",
+  "sideEffects": "Sun sensitivity, nausea."
+},
+{
+  "name": "Losartan",
+  "uses": "Used to treat high blood pressure.",
+  "dosage": "Take only as directed by a doctor.",
+  "sideEffects": "Dizziness, tiredness."
+},
+{
+  "name": "Amlodipine",
+  "uses": "Used for high blood pressure and chest pain.",
+  "dosage": "Use only as prescribed.",
+  "sideEffects": "Swelling of feet, dizziness."
+},
+{
+  "name": "Atorvastatin",
+  "uses": "Used to lower cholesterol.",
+  "dosage": "Take only as directed by your doctor.",
+  "sideEffects": "Muscle pain, headache."
+},
+{
+  "name": "Rosuvastatin",
+  "uses": "Used to reduce cholesterol.",
+  "dosage": "Use only on medical advice.",
+  "sideEffects": "Muscle pain, nausea."
+},
+{
+  "name": "Salbutamol",
+  "uses": "Relieves asthma and breathing problems.",
+  "dosage": "Use inhaler only as prescribed.",
+  "sideEffects": "Fast heartbeat, tremors."
+},
+{
+  "name": "Montelukast",
+  "uses": "Used for asthma and allergies.",
+  "dosage": "Take as directed by a doctor.",
+  "sideEffects": "Headache, stomach pain."
+},
+{
+  "name": "Vitamin C",
+  "uses": "Vitamin supplement.",
+  "dosage": "Use according to label or doctor's advice.",
+  "sideEffects": "Stomach upset in high doses."
+},
+{
+  "name": "Vitamin D3",
+  "uses": "Supports bone health and vitamin D deficiency.",
+  "dosage": "Take as advised by your doctor.",
+  "sideEffects": "Usually well tolerated when used correctly."
+},
+{
+  "name": "Zinc",
+  "uses": "Mineral supplement for zinc deficiency.",
+  "dosage": "Take as directed by a healthcare professional.",
+  "sideEffects": "Nausea, stomach upset."
+}
